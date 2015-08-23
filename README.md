@@ -1,4 +1,4 @@
-# Programming Arduino with PlatformIO [![Build Status](https://travis-ci.org/nichtich/platformio-arduino.svg?branch=master)](https://travis-ci.org/nichtich/platformio-arduino)
+# Programming Arduino with PlatformIO [![Build Status](https://travis-ci.org/nichtich/platformio-arduino.svg)](https://travis-ci.org/nichtich/platformio-arduino)
 
 This project illustrates programming Arduino with
 [PlatformIO](https://platformio.org). 

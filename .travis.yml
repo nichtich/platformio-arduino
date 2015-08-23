@@ -3,7 +3,7 @@ python:
     - 2.7
 
 env:
-    - PLATFORMIO_CI_SRC=random-blink.ino
+    - PLATFORMIO_CI_SRC=src/random-blink.ino
 
 install:
     - python -c "$(curl -fsSL https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py)"

@@ -3,6 +3,9 @@
 This project illustrates programming Arduino with
 [PlatformIO](https://platformio.org). 
 
+* master - simple Ardunio Uno sketch
+* makeblock - Makeblock with Me base shield and DC Motor
+
 ## Installation
 
 Tested with Ubuntu 15.04.
